@@ -30,7 +30,8 @@ This project is an interactive Excel dashboard that analyzes bike sales based on
 
 ## 📷 Dashboard Preview
 
-![Bike Sales Dashboard](b5c3d958-c7fd-40cf-bbdf-b30887de39f4.png)
+<img width="777" alt="{C110EACE-9B55-409E-AB83-D018F878BE2D}" src="https://github.com/user-attachments/assets/0ed17360-2987-45dd-866a-ebcec6254432" />
+
 
 ##  Files Included
 
