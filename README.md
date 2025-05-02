@@ -21,14 +21,14 @@ This project is an interactive Excel dashboard that analyzes bike sales based on
 - Slicers (interactive filters)
 - Data cleaning and structuring
 
-## 📈 Insights
+##  Insights
 
 - **Middle-aged customers** are the most likely to purchase bikes.
 - **Higher income** is generally associated with bike purchases.
 - **Shorter commute distances** tend to lead to more purchases.
 - **Males** show slightly higher purchase rates and average income than females.
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 <img width="777" alt="{C110EACE-9B55-409E-AB83-D018F878BE2D}" src="https://github.com/user-attachments/assets/0ed17360-2987-45dd-866a-ebcec6254432" />
 
